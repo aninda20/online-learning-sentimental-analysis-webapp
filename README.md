@@ -1,7 +1,7 @@
 # Online Learning Sentiment Analysis Web App
 <p align="center">
   <a href="" rel="noopener">
- <img width="80" alt="Sentiment Analysis Logo" src="[LINK_TO_YOUR_APP_LOGO_IMAGE]">
+ <img width="80" alt="Sentiment Analysis Logo" src="https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/Logo1.JPG"
 </a>
 </p>
 
@@ -50,4 +50,4 @@ This web app utilizes advanced sentiment analysis techniques to interpret public
 - AI Wordcloud: ![AI Wordcloud](https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/AI-wordcloud.jpeg)
 
 ✍️ Author <a name = "authors"></a>
-- [Your Name or GitHub Profile Link]
+- [Aninda Mandal](https://github.com/aninda20)
