@@ -43,8 +43,8 @@
 🤳 Screenshots <a name = "screenshots"></a>
 - Main Page: ![Main Page](https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/images/main-page.jpeg)
 - Count Plot: ![Count Plot](https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/images/count-plot.jpeg)
-- Pie Chart of Sentiments: ![Pie Chart of Sentiments](https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/imagespie-chart-of-sentiments.jpeg)
-- Tweets Visualization: ![Tweets Visualization](https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/imagestweets-visual.jpeg)
+- Pie Chart of Sentiments: ![Pie Chart of Sentiments](https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/images/pie-chart-of-sentiments.jpeg)
+- Tweets Visualization: ![Tweets Visualization](https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/images/tweets-visual.jpeg)
 - AI Wordcloud: ![AI Wordcloud](https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/images/AI-wordcloud.jpeg)
 
 
