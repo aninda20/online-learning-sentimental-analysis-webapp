@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width="500" alt="Sentiment Analysis Logo" src="https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/Logo1.JPG"
+ <img width="500" alt="Sentiment Analysis Logo" src="https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/images/Logo1.JPG"
 </a>
 </p>
 
@@ -41,10 +41,10 @@
 4) Natural Language Processing </br>
 
 🤳 Screenshots <a name = "screenshots"></a>
-- Main Page: ![Main Page](https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/main-page.jpeg)
-- Count Plot: ![Count Plot](https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/count-plot.jpeg)
-- Pie Chart of Sentiments: ![Pie Chart of Sentiments](https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/pie-chart-of-sentiments.jpeg)
-- Tweets Visualization: ![Tweets Visualization](https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/tweets-visual.jpeg)
-- AI Wordcloud: ![AI Wordcloud](https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/AI-wordcloud.jpeg)
+- Main Page: ![Main Page](https://github.com/aninda20/images/online-learning-sentimental-analysis-webapp/blob/main/main-page.jpeg)
+- Count Plot: ![Count Plot](https://github.com/aninda20/images/online-learning-sentimental-analysis-webapp/blob/main/count-plot.jpeg)
+- Pie Chart of Sentiments: ![Pie Chart of Sentiments](https://github.com/aninda20/images/online-learning-sentimental-analysis-webapp/blob/main/pie-chart-of-sentiments.jpeg)
+- Tweets Visualization: ![Tweets Visualization](https://github.com/aninda20/images/online-learning-sentimental-analysis-webapp/blob/main/tweets-visual.jpeg)
+- AI Wordcloud: ![AI Wordcloud](https://github.com/aninda20/images/online-learning-sentimental-analysis-webapp/blob/main/AI-wordcloud.jpeg)
 
 
