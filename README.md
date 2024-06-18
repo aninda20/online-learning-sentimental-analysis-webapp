@@ -9,7 +9,7 @@
     <br> 
 </h3>
 
-<p>Online Learning Sentiment Analysis Web App is a solution for analyzing public opinions on e-learning platforms. This tool empowers users with real-time insights, aiding e-learning providers in making informed decisions and enhancing user engagement Please not that support for third party packages like Tweepy have been changed and some visualizations may not work anymore.</p>
+<p>Online Learning Sentiment Analysis Web App is a solution for analyzing public opinions on e-learning platforms. This tool empowers users with real-time insights, aiding e-learning providers in making informed decisions and enhancing user engagement. Please note that support for third party packages like Tweepy have been changed and some visualizations may not work anymore.</p>
 
 📝 Table of Contents
 
