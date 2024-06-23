@@ -32,8 +32,8 @@
 - Streamlit-based interactive and responsive frontend.
 
 🏁 Getting Started <a name = "getting_started"></a>
-- ``` bash
-      git clone https://github.com/aninda20/online-learning-sentimental-analysis-webapp.git
+- ``` bash 
+  git clone https://github.com/aninda20/online-learning-sentimental-analysis-webapp.git
 
 ⛏️ Built With </br> <a name = "tech_stack"></a>
 1) Python </br>
